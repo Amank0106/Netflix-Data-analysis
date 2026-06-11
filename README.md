@@ -67,7 +67,7 @@ The dataset contains information about Netflix titles such as:
 - Some directors and actors appear repeatedly across multiple titles.
 - Most TV shows have a small number of seasons.
 
-How to Run
+How to Run:
 Clone the repository.
 Make sure the dataset file is in the same folder as the notebook.
 Open NETFLIX_DATA_ANALYSIS.ipynb in Jupyter Notebook.
